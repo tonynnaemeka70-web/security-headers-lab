@@ -1,28 +1,24 @@
 Security Headers Lab
 
-A cybersecurity lab project demonstrating Nginx security header hardening with Docker. 
-
+A cybersecurity lab project demonstrating Nginx security header hardening with Docker.  
 This project implements browser-side protections against common client-side attacks such as Clickjacking, MIME sniffing, and Cross-Site Scripting (XSS).
 
 
 
-
 Repository Structure
-- DOC/  Contains project documentation  
-  - `PROJECT GUARD-POST_ AUTOMATED WEB HEADER HARDENINGt.pdf`  
-- README.md → Overview of the repository  
-    
+- DOC/ Contains project documentation  
+  - [PROJECT GUARD-POST_ AUTOMATED WEB HEADER HARDENINGt.pdf](./DOC/PROJECT%20GUARD-POST_%20AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)  
 
 
 
- Security Controls Implemented
+Security Controls Implemented
 - X-Frame-Options: DENY → Prevents Clickjacking  
 - X-Content-Type-Options: nosniff → Blocks MIME-type sniffing  
-- Content-Security-Policy: default-src 'self' → Restricts unauthorized script execution  
+- Content-Security-Policy: default-src 'self'Restricts unauthorized script execution  
 
 
 
-Lab Environment
+ Lab Environment
 - Host: VMware Workstation  
 - OS: Ubuntu Linux  
 - Container Platform: Docker  
@@ -40,8 +36,13 @@ Lab Environment
 
 
 
-Documentation
-Full details of the project, including configuration files, validation screenshots, and security assessment, are available in the PDF under the [`DOC`](./DOC) folder.
+ Documentation
+Full details of the project, including configuration files, validation screenshots, and security assessment, are available in the PDF under the [`DOC`](./DOC) folder:  
+[Open Project Document](./DOC/PROJECT%20GUARD-POST_%20AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
+
+
+
+
 
 
 
