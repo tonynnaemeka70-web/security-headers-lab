@@ -51,9 +51,7 @@ All validation and deployment screenshots are stored in the [`screenshots`](./sc
  Documentation
 Full details of the project, including configuration files, validation screenshots, and security assessment, are available in the PDF 
 
-under the [`DOC`](./DOC) folder:  
-
-[Open Project Document](./DOC/PROJECT%20GUARD-POST_%20AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
+under the [`DOC`](./DOC) folder:  [Open Project Document](./DOC/PROJECT%20GUARD-POST_%20AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
 
 
 
